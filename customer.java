@@ -4,6 +4,7 @@ public class customer {
     
 
     public customer (String nama){
+        System.out.println();
         this.nama = nama;
     }
 
