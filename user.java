@@ -3,7 +3,7 @@ public class user {
     public String jabatan;
 
     public user () {
-        this.nama="Naufal & Atha & Agil & Rakha";
-        this.jabatan=" Kasir ";
+        this.nama="";
+        this.jabatan="";
     }
 }

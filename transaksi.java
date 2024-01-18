@@ -25,7 +25,7 @@ public class transaksi {
         System.out.println(i.jenisLaundry[2]);
         System.out.println(i.jenisLaundry[3]);
 
-        System.out.println("Masukkan Jenis Laundry");
+        System.out.print("Masukkan Jenis Laundry : ");
         String laundry = input.next();
         
         if(laundry.equalsIgnoreCase("Baju")) {
